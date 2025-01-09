@@ -13,7 +13,7 @@ class AnsweringService(ABC):
     def answer(self, question: Question) -> UserAnswer:
         pass
 
-
+    @abstractmethod
     def get_question_type(self, question: Question) -> QuestionType:
         pass
         
