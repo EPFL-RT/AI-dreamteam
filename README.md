@@ -25,3 +25,7 @@ src/ : Contains the source code of the project
     ├── domain/ : Contains the code for the domain layer
     ├── service/ : Contains the code for the service layer
     ├── utils/ : Contains the code for the utility functions
+## Contact on slack 
+Sebastien Chahoud 
+Noa Cuccodoro 
+Imade Bouhamria 
